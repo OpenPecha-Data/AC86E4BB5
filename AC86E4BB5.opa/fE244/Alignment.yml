@@ -1,0 +1,19 @@
+segment_sources:
+  I9CD8646A:
+    type: origin_type
+    relation: translation
+    language: en
+  I84C730A1:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  78fc15b210b64d16aaa528c6c182d73d:
+    I9CD8646A: c49cc42ac88e4c0eb56080e1d60941c0
+    I84C730A1: c2874d05168a462e9efc05e1e8b35cb8
+  afecadf7cb35432ebac890f2bbe119ce:
+    I9CD8646A: 6eb2c7e6872940f0b4d8aac9f500a1c4
+    I84C730A1: b371e1a3182e4245b47367e3b74f79f1
+  fb6033823da346399020a72ebdc0d695:
+    I9CD8646A: 39d97f23c6aa4a7987beb8c80a223a0d
+    I84C730A1: c038aea240664c5e8c31e52cfdec7fad
